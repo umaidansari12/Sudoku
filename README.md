@@ -1,4 +1,4 @@
-# Sudoku
+# Sudoku Solver
 A Sudoku Solver
 
 
